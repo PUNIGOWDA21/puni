@@ -1,0 +1,3 @@
+FROM ubantu
+RUN apt-get update
+echo "Hello world"
